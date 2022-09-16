@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking an job in IT
 
-- 🌱 I’m currently learning **Python, R**
+- 🌱 I’m currently learning **Python, R & Javascript**
 
 - 📫 How to reach me **nicolasnahuel01@gmail.com**
 
